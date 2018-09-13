@@ -6,6 +6,6 @@
   <title>xijuediban</title>
  </head>
  <body>
-  <h2>Welcome to my code world ！</h2>
+  <h2>Welcome to the code world of xijuediban</h2>
  </body>
 </html>
